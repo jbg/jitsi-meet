@@ -1048,7 +1048,7 @@
         "adjustFor": "Adjust for:",
         "audioOnly": "AUD",
         "bestPerformance": "Best performance",
-        "bestQuality": "Best quality",
+        "highestQuality": "Highest quality",
         "audioOnlyExpanded": "You are in low bandwidth mode. In this mode you will receive only audio and screen sharing.",
         "callQuality": "Video Quality",
         "hd": "HD",

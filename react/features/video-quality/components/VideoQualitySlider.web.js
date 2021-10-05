@@ -189,7 +189,7 @@ class VideoQualitySlider extends Component<Props> {
                 <div className = { classes.dialogContents }>
                     <div className = { classes.sliderDescription }>
                         <span>{t('videoStatus.bestPerformance')}</span>
-                        <span>{t('videoStatus.bestQuality')}</span>
+                        <span>{t('videoStatus.highestQuality')}</span>
                     </div>
                     <Slider
                         ariaLabel = { t('videoStatus.callQuality') }
