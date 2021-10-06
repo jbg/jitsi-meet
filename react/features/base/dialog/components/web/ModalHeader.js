@@ -152,6 +152,7 @@ class ModalHeader extends React.Component<Props> {
                     !hideCloseIconButton
                         && <div
                             className = { classes.closeButton }
+                            id = 'modal-header-close-button'
                             onClick = { onClose }>
                             <Icon
                                 ariaLabel = { t('dialog.close') }
