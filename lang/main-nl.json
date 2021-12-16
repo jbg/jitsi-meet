@@ -73,9 +73,17 @@
             "titleWithPolls": "Voer een bijnaam in om chat te gebruiken"
         },
         "privateNotice": "Privébericht aan {{recipient}}",
-        "title": "Chat",
-        "titleWithPolls": "Chat",
-        "you": "u"
+        "message": "Bericht",
+        "messageAccessibleTitle": "{{user}} zegt:",
+        "messageAccessibleTitleMe": "ik zeg:",
+        "smileysPanel": "Smiley paneel",
+        "tabs": {
+            "chat": "Gesprek",
+            "polls": "Peilingen"
+        },
+        "title": "Gesprek",
+        "titleWithPolls": "Gesprek",
+        "you": "U"
     },
     "chromeExtensionBanner": {
         "installExtensionText": "Installeer de extensie voor Google Calendar en Office 365 integratie",
