@@ -524,8 +524,65 @@
         "oldElectronClientDescription2": "nieuwste versie",
         "oldElectronClientDescription3": "!"
     },
+    "participantsPane": {
+        "close": "Sluit",
+        "header": "Deelnemers",
+        "headings": {
+            "lobby": "Lobby ({{count}})",
+            "participantsList": "Deelnemers vergadering ({{count}})",
+            "waitingLobby": "Wachtend in lobby ({{count}})"
+        },
+        "actions": {
+            "allow": "Sta deelnemer toe:",
+            "allowVideo": "Sta video toe",
+            "audioModeration": "Dempen zelf opheffen",
+            "blockEveryoneMicCamera": "Blokkeer camera en microfoon van allen",
+            "invite": "Iemand uitnodigen",
+            "askUnmute": "Vragen dempen opheffen",
+            "moreModerationActions": "Meer moderatie opties",
+            "moreParticipantOptions": "Meer deelnemer opties",
+            "mute": "Dempen",
+            "muteAll": "Demp allen",
+            "muteEveryoneElse": "Demp alle anderen",
+            "stopEveryonesVideo": "Stop alle video",
+            "stopVideo": "Stop video",
+            "unblockEveryoneMicCamera": "De-blokkeer alle microfoons en camera's",
+            "videoModeration": "Start video",
+            "moreModerationControls": "Meer moderatie opties"
+        },
+        "search": "Zoek deelnemers"
+    },
     "passwordSetRemotely": "ingesteld door een andere deelnemer",
     "passwordDigitsOnly": "Maximaal {{number}} cijfers",
+    "polls": {
+        "by": "Door {{ name }}",
+        "create": {
+            "addOption": "Voeg optie toe",
+            "answerPlaceholder": "Optie {{index}}",
+            "create": "Creëer een peiling",
+            "cancel": "Annuleer",
+            "pollOption" : "Peiling optie {{index}}",
+            "pollQuestion" : "Peiling vraag",
+            "questionPlaceholder": "Stel een vraag",
+            "removeOption": "Verwijder optie",
+            "send": "Verstuur"
+        },
+        "answer": {
+            "skip": "Sla over",
+            "submit": "Verzend"
+        },
+        "results": {
+            "vote": "Stem",
+            "changeVote": "Verander stem",
+            "empty": "Er zijn nog geen peilingen in deze vergadering. Start hier een peiling!",
+            "hideDetailedResults": "Verberg details",
+            "showDetailedResults": "Toon details"
+        },
+        "notification": {
+            "title": "Een nieuwe peiling is aangemaakt in deze vergadering",
+            "description": "Open het peilingen tabblad om te stemmen"
+        }
+    },
     "poweredby": "mogelijk gemaakt door",
     "prejoin": {
         "audioAndVideoError": "Audio- en videofout:",
